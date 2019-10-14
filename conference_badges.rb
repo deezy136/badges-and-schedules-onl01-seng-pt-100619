@@ -9,9 +9,10 @@ def badge_maker(name)
   greeting_for_badge
 end 
 
-def batch_badge_creator(name)
+def batch_badge_creator(names)
 badges = []
 
+badges.push("Hello, my name is #{name}.")
 end 
 
 def assign_rooms()
