@@ -32,6 +32,5 @@ def assign_rooms(attendees)
   rooms = [1,2,3,4,5,6,7]
   
   
-  
- # "Hello, #{name}! You'll be assigned to room 1!"
+
 end 
