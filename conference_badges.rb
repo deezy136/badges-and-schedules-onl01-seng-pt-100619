@@ -5,4 +5,6 @@ badges = []
 end 
 
 def assign_rooms()
+  
+  puts "Hello #{name}!"
 end 
